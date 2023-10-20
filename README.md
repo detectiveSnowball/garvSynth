@@ -1,2 +1,2 @@
-# gSynth
+# garvSynth
 a simple Synth
